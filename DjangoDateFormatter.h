@@ -1,4 +1,4 @@
-/*ISO8601DateFormatter.h
+/*DjangoDateFormatter.h
  *
  *Created by Peter Hosey on 2009-04-11.
  *Copyright 2009–2016 Peter Hosey. All rights reserved.

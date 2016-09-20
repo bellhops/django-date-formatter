@@ -1,4 +1,4 @@
-/*ISO8601DateFormatter.m
+/*DjangoDateFormatter.m
  *
  *Created by Peter Hosey on 2009-04-11.
  *Copyright 2009–2016 Peter Hosey. All rights reserved.
@@ -9,7 +9,7 @@
 #if TARGET_OS_IPHONE
 #	import <UIKit/UIKit.h>
 #endif
-#import "ISO8601DateFormatter.h"
+#import "DjangoDateFormatter.h"
 
 #ifndef DEFAULT_TIME_SEPARATOR
 #	define DEFAULT_TIME_SEPARATOR ':'
