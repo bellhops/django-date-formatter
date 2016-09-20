@@ -16,7 +16,7 @@
     "osx": "10.7"
   },
   "source": {
-    "git": "https://github.com/boredzo/iso-8601-date-formatter.git",
+    "git": "https://github.com/bellhops/django-date-formatter.git",
     "tag": "0.8"
   },
   "source_files": "DjangoDateFormatter.{h,m}",
